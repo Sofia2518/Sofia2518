@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sofia Kaur</h1>
 <h3 align="center">💻 Passionate Web Developer | MERN Stack Learner</h3>
-<img align="right" alt="coding" width="200" height="100%"src="https://cdn.vectorstock.com/i/500p/01/62/software-developer-cartoon-vector-58780162.jpg">
+<img align="right" alt="coding" width="300" height="100%"src="https://cdn.vectorstock.com/i/500p/01/62/software-developer-cartoon-vector-58780162.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofia2518&label=Profile%20views&color=0e75b6&style=flat" alt="sofia2518" /> </p>
 
